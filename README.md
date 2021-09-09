@@ -9,7 +9,7 @@ This program can post upto maximum limit of twitter(around 300 tweets) within se
 2. Give command `python3 main.py` to run the program
 
 ### Working
-Program randomly selects 3 different lines of body, any 3 tags and 3 hashtags to create a tweet posts. After authenticating your keys this will post `n` tweets on your account's feed.<br>
+Program randomly select 3 different lines of body, any 3 tags and 3 hashtags to create a tweet post. After authenticating your keys this will post `n` tweets on your account's feed.<br>
 Here `n` is taken as user input.
 ### Sample Output
 ...
