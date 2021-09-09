@@ -64,8 +64,8 @@ def main():
     n = int(input("Enter No of iterations:"))
     for i in range(n):
         tweet =  "Tweet Number : "+ str(i) +"\n" +create_tweet()
-        print(tweet)
-        #status = api.update_status(status=tweet)
+        #print(tweet)
+        status = api.update_status(status=tweet)
  
 if __name__ == "__main__":
     main()
